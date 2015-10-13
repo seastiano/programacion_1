@@ -1,6 +1,6 @@
 # programacion_1
 actividades de programación 1.sebastian ortiz soto
- %ejercicio graficacion 
+ %ejercicio graficacion  seno del vector x ,coseno de x
  X=linspace(0,2*pi,20);
  Y=sin(X);
  Y1=cos(X);
